@@ -1,3 +1,4 @@
+*://exchangetuts.com/*
 *://curatedgo.com/*
 *://morioh.com/*
 *://www.softwaretestingmentor.com/*
@@ -8,3 +9,8 @@
 *://golang.hotexamples.com/*
 *://techshift.net/*
 *://www.ikream.com/*
+*://www.alwaysvpn.com/*
+*://inspirationfeed.com/*
+*://www.techwhoop.com/*
+*://torrentfreak.com/*
+*://www.golangprograms.com/*
