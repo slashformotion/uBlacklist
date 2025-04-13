@@ -2,6 +2,8 @@ name: Compile blocklist
 
 on:
   push:
+  schedule:
+    - cron: '0 2 * * *'
 
 jobs:
   optimize-and-commit-push:
