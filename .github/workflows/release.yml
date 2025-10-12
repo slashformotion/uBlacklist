@@ -1,0 +1,24 @@
+name: release on change on uBlackList
+
+on:
+  push:
+    paths:
+      - "uBlacklist.txt"
+
+jobs:
+  tagged-release:
+    name: "Tagged Release"
+    runs-on: "ubuntu-latest"
+
+    steps:
+      - name: Checkout
+        uses: action/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          prerelease: false
+          files: |
+            uBlacklist.txt
