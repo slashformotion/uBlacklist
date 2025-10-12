@@ -11,14 +11,16 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Optimize
         run: ./build.sh
       - name: Commit
         run: |
-          status_log=$(git status -sb)
-          if [ "$status_log" == "## main...origin/main" ];then
+          git diff --quiet
+          if ! git diff --quiet; then
             echo "nothing to commit, working tree clean"
           else
             echo "commit..."
