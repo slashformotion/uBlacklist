@@ -26,7 +26,6 @@ jobs:
 
       - name: Commit
         run: |
-          git diff --quiet
           if ! git diff --quiet; then
             echo "nothing to commit, working tree clean"
           else
