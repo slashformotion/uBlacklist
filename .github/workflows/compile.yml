@@ -18,6 +18,9 @@ jobs:
       - name: Optimize
         run: ./build.sh
 
+      - name: DIFF
+        run: git diff --quiet
+
       - name: Commit
         run: |
           git diff --quiet
