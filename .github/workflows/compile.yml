@@ -15,6 +15,9 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: diff before
+        run: git diff --quiet
+
       - name: Optimize
         run: ./build.sh
 
