@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 target="uBlacklist.txt"
 rm -f $target
@@ -12,8 +12,8 @@ done < sources.txt
 echo "Appending my personal list"
 cat personalList.txt >> ${target}
 
-echo "Removing duplicates and comments"
-sort -u ${target} | grep -v '^#' | grep -v '^$' > ${target}.tmp
+echo "Removing duplicates, comments, and YAML frontmatter"
+sed '/^---$/,/^---$/d' ${target} | sort -u | grep -v '^#' | grep -v '^$' > ${target}.tmp
 mv ${target}.tmp ${target}
 
 echo "Done"
