@@ -7,24 +7,25 @@ on:
   schedule:
     - cron: "0 2 * * *"
 
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
 jobs:
   optimize-and-commit-push:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: diff before
-        run: git diff
-
       - name: Optimize
         run: ./build.sh
-
-      - name: diff after
-        run: git diff
 
       - name: Commit and push changes
         env:
@@ -32,7 +33,7 @@ jobs:
         run: |
           git config --global user.email 41898282+github-actions[bot]@users.noreply.github.com
           git config --global user.name github-actions[bot]
+          git diff --quiet && exit 0
           git add .
           git commit -m "optimize $(date)"
-          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
           git push origin HEAD:${{ github.ref_name }}

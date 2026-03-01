@@ -1,24 +1,30 @@
-name: release on change on uBlackList
+name: Release on change
 
 on:
   push:
     paths:
       - "uBlacklist.txt"
 
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
 jobs:
   tagged-release:
-    name: "Tagged Release"
-    runs-on: "ubuntu-latest"
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
-        uses: action/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - uses: "marvinpinto/action-automatic-releases@latest"
+      - uses: marvinpinto/action-automatic-releases@latest
         with:
-          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
           prerelease: false
           files: |
             uBlacklist.txt
