@@ -1,3 +1,4 @@
 https://raw.githubusercontent.com/arosh/ublacklist-github-translation/master/uBlacklist.txt
 https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt
 https://raw.githubusercontent.com/wdmpa/content-farm-list/main/uBlacklist.txt
+https://raw.githubusercontent.com/agsimmons/ai-content-blocklist/refs/heads/main/uBlacklist.txt
