@@ -3536,6 +3536,7 @@
 *://*.its401.com/*
 *://*.its404.com/*
 *://*.its500.com/*
+*://*.itstorage.net/*
 *://*.ittrip.xyz/*
 *://*.itvgm.cn/*
 *://*.ityouknow.com/*
