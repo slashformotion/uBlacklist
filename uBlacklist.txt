@@ -1624,6 +1624,7 @@
 *://*.borasweb.buzz/*
 *://*.bos119.com/*
 *://*.bossiercountry.buzz/*
+*://*.botmonster.com/*
 *://*.boyaclean.com/*
 *://*.boyajyzs.cn/*
 *://*.bp2sbo0.cn/*
@@ -2903,6 +2904,7 @@
 *://*.grepper.com/*
 *://*.grhqrx.cn/*
 *://*.grizwood.buzz/*
+*://*.grokipedia.com/page/*
 *://*.grosse-chatte.buzz/*
 *://*.growinglove.cn/*
 *://*.grs8.cn/*
@@ -4282,6 +4284,7 @@
 *://*.luowenling.cn/*
 *://*.luqinblog.com/*
 *://*.lure168.cn/*
+*://*.lushbinary.com/blog/*
 *://*.lutonjixie.com/*
 *://*.luxifeier.com/*
 *://*.luxuewang.com/*
@@ -4463,6 +4466,7 @@
 *://*.milubuy.com/*
 *://*.mincoon.com/*
 *://*.mindongsc.com/*
+*://*.mindstudio.ai/blog/*
 *://*.ming-micro.buzz/*
 *://*.mingrenze.com/*
 *://*.minijiaju.com/*
