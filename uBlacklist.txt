@@ -3976,6 +3976,7 @@
 *://*.ko2kukq.cn/*
 *://*.ko59.cn/*
 *://*.koaonk.cn/*
+*://*.kommandotech.com/*
 *://*.kongbaowangzhan.cn/*
 *://*.kongzhixiang.cn/*
 *://*.konka7556.com/*
