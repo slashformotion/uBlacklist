@@ -7613,6 +7613,8 @@
 *://de.jbckj.com/*
 *://devcodef1.com/*
 *://digitrain.ru/*
+*://django.wiki/*
+*://dnmtechs.com/*
 *://doraprojects.net/*
 *://download.cnet.com/*
 *://easytechsolver.com/*
@@ -7645,6 +7647,7 @@
 *://glossykitchen.com/*
 *://golang.hotexamples.com/*
 *://golangrepo.com/*
+*://hatchjs.com/*
 *://help.simplified.com/*
 *://homediningkitchen.com/*
 *://howopen.net/*
@@ -7671,6 +7674,7 @@
 *://lykelect.com/*
 *://lykeshares.com/*
 *://microeducate.tech/*
+*://moldstud.com/*
 *://mondedumail.com/*
 *://morioh.com/*
 *://newbedev.com/*
@@ -7717,6 +7721,7 @@
 *://so.muouseo.com/*
 *://solveforum.com/*
 *://splunktool.com/*
+*://sqlpey.com/*
 *://stackguides.com/*
 *://stackoom.com/*
 *://stackovergo.com/*
@@ -7784,6 +7789,7 @@
 *://www.pythontutorials.net/*
 *://www.querythreads.com/*
 *://www.ricearray.org/*
+*://www.rustcodeweb.com/*
 *://www.semicolonworld.com/*
 *://www.shecodes.io/athena/*
 *://www.slideshare.net/*
