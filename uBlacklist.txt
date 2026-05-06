@@ -1361,6 +1361,7 @@
 *://*.autotimeit.buzz/*
 *://*.auuur.com/*
 *://*.auxilia.space/*
+*://*.avaide.com/*
 *://*.avenuetosuccess.buzz/*
 *://*.avg.com/*/signal/*
 *://*.avira.com/*/blog/*
