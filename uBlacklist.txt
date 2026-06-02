@@ -1682,6 +1682,7 @@
 *://*.by2n2y7.cn/*
 *://*.byadg.cn/*
 *://*.byswq.com/*
+*://*.byteiota.com/*
 *://*.byxz518.com/*
 *://*.byzzxsj.com/*
 *://*.bz328.com/*
