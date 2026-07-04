@@ -4414,6 +4414,7 @@
 *://*.mediamister.com/blog/*
 *://*.mediatagtw.com/*
 *://*.medistaryn.com/*
+*://*.medium.com/@ooikrish13/*
 *://*.mediupdates.com/*
 *://*.meemawsrecipes.com/*
 *://*.mefdjl.cn/*
@@ -7671,6 +7672,7 @@
 *://kb.kutu66.com/*
 *://kitchensnitches.com/*
 *://kzen.dev/*
+*://lifetips.alibaba.com/*
 *://lightrun.com/*
 *://linuxvox.com/*
 *://living-sun.com/*
@@ -7723,6 +7725,7 @@
 *://shungrill.com/*
 *://so.muouseo.com/*
 *://solveforum.com/*
+*://spice.alibaba.com/*
 *://splunktool.com/*
 *://sqlpey.com/*
 *://stackguides.com/*
