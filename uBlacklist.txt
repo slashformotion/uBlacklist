@@ -1822,6 +1822,7 @@
 *://*.cheapaprtments.buzz/*
 *://*.chechetun.com/*
 *://*.checkrrr.com/*
+*://*.checksub.com/blog/*
 *://*.cheerleadersuperstore.buzz/*
 *://*.chefsresource.com/*
 *://*.chem360.cn/*
