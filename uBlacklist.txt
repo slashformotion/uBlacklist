@@ -2116,6 +2116,7 @@
 *://*.dapg.cc/*
 *://*.dapx.cc/*
 *://*.daquandaquan.com/*
+*://*.darazhost.com/*
 *://*.dasearch.cc/*
 *://*.dashangvip.com/*
 *://*.dashdirectory.buzz/*
@@ -2205,6 +2206,7 @@
 *://*.dicrt.cn/*
 *://*.didibeile.com/*
 *://*.didong100.com/*
+*://*.digicert.com/blog/*
 *://*.digital-mouse.buzz/*
 *://*.digital-transfers.buzz/*
 *://*.digitalocean.com/community/tutorials/*
@@ -3032,6 +3034,7 @@
 *://*.hailihaili.com/*
 *://*.haiwei9.com/*
 *://*.haiyangkj.com/*
+*://*.halo-mario.com/*
 *://*.hambzj.com/*
 *://*.hamtap.com/*
 *://*.handformkeramik.buzz/*
@@ -4856,6 +4859,7 @@
 *://*.ogiharasekiyu.buzz/*
 *://*.ogng.com.cn/*
 *://*.oh2ckvf.cn/*
+*://*.ohidur.com/blog/*
 *://*.oiresk.cn/*
 *://*.oisv.cn/*
 *://*.oiud6.cn/*
@@ -4881,6 +4885,7 @@
 *://*.oneworld99.com/*
 *://*.onexception.dev/*
 *://*.ongetpi.cn/*
+*://*.onidel.com/blog/*
 *://*.onitwh.cn/*
 *://*.online-green.buzz/*
 *://*.ons123.cn/*
@@ -5116,6 +5121,7 @@
 *://*.priyiuc.cn/*
 *://*.promar1.buzz/*
 *://*.promoworksnow.buzz/*
+*://*.protonvpn.com/blog/*
 *://*.prtfp35.cn/*
 *://*.psawis.com/*
 *://*.psb-hamburg.buzz/*
@@ -5414,6 +5420,9 @@
 *://*.resolutionrealtyinc.buzz/*
 *://*.retainedvscontingent.buzz/*
 *://*.return-on-ideas.buzz/*
+*://*.revouninstaller.com/*blog/*
+*://*.revouninstaller.com/preview-log/*
+*://*.revouninstaller.com/user-tutorials/*
 *://*.rf67.cn/*
 *://*.rf9zuz.cn/*
 *://*.rfm8.cn/*
@@ -5758,6 +5767,7 @@
 *://*.simplewma.com/*
 *://*.simplified.com/blog/*
 *://*.simplilearn.com/*article*
+*://*.simplyblock.io/glossary/*
 *://*.singledream.cn/*
 *://*.sino01.com/*
 *://*.sinochemlyg.cn/*
@@ -5815,6 +5825,7 @@
 *://*.snh8.cn/*
 *://*.snhsoft.com/*
 *://*.snjiaoyu.com/*
+*://*.soax.com/blog/*
 *://*.socketloop.com/tutorials/*
 *://*.softhandtech.com/*
 *://*.softonic.com/*
@@ -5926,6 +5937,7 @@
 *://*.supportyourtech.com/*
 *://*.supremeppe.buzz/*
 *://*.surf4gifts.buzz/*
+*://*.surfercloud.com/blog/*
 *://*.surprise8.com/*
 *://*.survillance.buzz/*
 *://*.sushiyigou.com/*
@@ -7651,6 +7663,7 @@
 *://gitmemory.cn/*
 *://gitmotion.com/*
 *://glossykitchen.com/*
+*://go.lightnode.com/tech/*
 *://golang.hotexamples.com/*
 *://golangrepo.com/*
 *://hatchjs.com/*
