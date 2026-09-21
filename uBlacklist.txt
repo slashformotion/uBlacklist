@@ -1416,6 +1416,7 @@
 *://*.ballroom-dancer.buzz/*
 *://*.baltic-immo.buzz/*
 *://*.bamuyi.com/*
+*://*.bandnotify.com/tutorial/*
 *://*.bandwidth9.buzz/*
 *://*.banfun.cn/*
 *://*.bangbogl.com/*
@@ -1488,6 +1489,7 @@
 *://*.best-of-best.buzz/*
 *://*.bestfreefootball.buzz/*
 *://*.besthuaxia.com/*
+*://*.besthub.dev/articles/*
 *://*.bestoaa.com/*
 *://*.betanet.net/*
 *://*.bethelroadsweepers.buzz/*
@@ -3029,6 +3031,7 @@
 *://*.h8006.cn/*
 *://*.h9pq8wk.cn/*
 *://*.hadosd.cn/*
+*://*.hagezi.com/*
 *://*.hah8.cn/*
 *://*.hahalei.com/*
 *://*.hailihaili.com/*
@@ -3483,6 +3486,7 @@
 *://*.incj1ce.cn/*
 *://*.infinite-visions.buzz/*
 *://*.infonerve.com/*
+*://*.infozaem.com/*
 *://*.inkworker.com/*
 *://*.inndulgehotel.buzz/*
 *://*.innerloop-prod.buzz/*
@@ -3530,6 +3534,7 @@
 *://*.it5120.com/*
 *://*.italgrip.buzz/*
 *://*.itaotaotao.com/*
+*://*.itarian.com/blog/*
 *://*.itchosun.buzz/*
 *://*.itechhacks.com/*
 *://*.iteramos.com/*
@@ -4171,8 +4176,10 @@
 *://*.link4399.cn/*
 *://*.linksou.cc/*
 *://*.linoxide.com/*
+*://*.linux.com/*
 *://*.linuxcapable.com/*
 *://*.linuxmadesimple.info/*
+*://*.linuxsecurity.com/*
 *://*.linuxvox.com/*
 *://*.linyuanfs.com/*
 *://*.liqijmg.com/*
@@ -5121,6 +5128,7 @@
 *://*.priyiuc.cn/*
 *://*.promar1.buzz/*
 *://*.promoworksnow.buzz/*
+*://*.protonge.com/*
 *://*.protonvpn.com/blog/*
 *://*.prtfp35.cn/*
 *://*.psawis.com/*
@@ -6320,6 +6328,7 @@
 *://*.u72.net/*
 *://*.u8nqbfs.cn/*
 *://*.ua648vk.cn/*
+*://*.uacred.com/*
 *://*.uaelotto.buzz/*
 *://*.uajctja.buzz/*
 *://*.uantanqinv.cn/*
