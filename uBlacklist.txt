@@ -1068,6 +1068,7 @@
 *://*.9tu9.com/*
 *://*.9wy2hpq.cn/*
 *://*.9xt399i.cn/*
+*://*.CMU.fr/*
 *://*.a0300.cn/*
 *://*.a3atiyq.cn/*
 *://*.a3wmykm.cn/*
@@ -1587,6 +1588,7 @@
 *://*.blitz-tipp.buzz/*
 *://*.bljt1x2.cn/*
 *://*.blockchain.news/*
+*://*.blog.incogni.com/*
 *://*.blom7o0.cn/*
 *://*.bluebox3d.com/*
 *://*.bluestacks.com/blog/*
@@ -1717,6 +1719,7 @@
 *://*.caiyuegift.com/*
 *://*.cakemaster.cn/*
 *://*.calyxcare.buzz/*
+*://*.cambridgeanalytica.org/*
 *://*.campuslifeline.buzz/*
 *://*.candhdistributors.buzz/*
 *://*.cangkool.com/*
@@ -1944,6 +1947,7 @@
 *://*.computertest.cn/*
 *://*.congga.cn/*
 *://*.contrex-us.buzz/*
+*://*.convertwithwave.com/*
 *://*.coolpotcc.com/*
 *://*.copilot.live/blog/*
 *://*.copoen.cn/*
@@ -2056,6 +2060,7 @@
 *://*.cy0734.com/*
 *://*.cy938.com/*
 *://*.cyber-fox.net/blog/*
+*://*.cyberghostvpn.com/privacyhub/*
 *://*.cyberinfoblog.com/*
 *://*.cyberpost.co/*
 *://*.cybersecuritynews.com/*
@@ -2494,6 +2499,7 @@
 *://*.excamtest.cn/*
 *://*.exchangetuts.com/*
 *://*.exdctol.cn/*
+*://*.expressvpn.com/blog/*
 *://*.extreme-mac.buzz/*
 *://*.eyuth.com/*
 *://*.eyxgwpt.cn/*
@@ -2787,6 +2793,7 @@
 *://*.gebvrl0.cn/*
 *://*.geek-share.com/*
 *://*.geekbing.com/*
+*://*.geeky-gadgets.com/*
 *://*.gegoods.com/*
 *://*.gelanbao.cn/*
 *://*.gemini-free.com/*
@@ -2896,6 +2903,7 @@
 *://*.goufangbj.cn/*
 *://*.gougeili8.com/*
 *://*.goulanyaozhai.com.cn/*
+*://*.gowavebrowser.com/*
 *://*.gp5vllt.cn/*
 *://*.gpuhiyk.cn/*
 *://*.gq05zh7.cn/*
@@ -3126,6 +3134,7 @@
 *://*.heheqc.com/*
 *://*.heidschnucken.buzz/*
 *://*.heimaboke.com/*
+*://*.heimdalsecurity.com/blog/*
 *://*.heistzone.buzz/*
 *://*.heizhilin.com/*
 *://*.helebe.com/*
@@ -3177,6 +3186,7 @@
 *://*.hiltonrobertson.buzz/*
 *://*.hippydyecowboy.buzz/*
 *://*.historical-cycling.buzz/*
+*://*.historyinpolitics.org/*
 *://*.hivaoapearllodge.buzz/*
 *://*.hix.ai/*/hub/*
 *://*.hix.ai/hub/*
@@ -3927,6 +3937,7 @@
 *://*.kemicloud.com/*
 *://*.kenneltbob.buzz/*
 *://*.kergi.top/*
+*://*.kernel-internals.org/*
 *://*.kesicqh.cn/*
 *://*.kesma.cn/*
 *://*.ketingtc.com/*
@@ -3988,6 +3999,7 @@
 *://*.ko2kukq.cn/*
 *://*.ko59.cn/*
 *://*.koaonk.cn/*
+*://*.koiknives.com/blogs/*
 *://*.kommandotech.com/*
 *://*.kongbaowangzhan.cn/*
 *://*.kongzhixiang.cn/*
@@ -4120,6 +4132,7 @@
 *://*.lengku114.com/*
 *://*.lenouveautemps.buzz/*
 *://*.leonlv.com/*
+*://*.leravi.org/*
 *://*.lerunsteel.com/*
 *://*.letaoshui.com/*
 *://*.levigrey.buzz/*
@@ -4153,6 +4166,7 @@
 *://*.libertyquiltshop.buzz/*
 *://*.libinlipin.com/*
 *://*.lichengjk.com/*
+*://*.lidarr.org/*
 *://*.lidasen.cn/*
 *://*.lidemeifu.com/*
 *://*.lidongqt.com/*
@@ -4178,6 +4192,7 @@
 *://*.linoxide.com/*
 *://*.linux.com/*
 *://*.linuxcapable.com/*
+*://*.linuxconfig.org/*
 *://*.linuxmadesimple.info/*
 *://*.linuxsecurity.com/*
 *://*.linuxvox.com/*
@@ -5753,6 +5768,7 @@
 *://*.shuaigetian.cn/*
 *://*.shujinger.com/*
 *://*.shunanjy.com/*
+*://*.shunauto.com/*
 *://*.shunlixidi.com/*
 *://*.shuzaos.com/*
 *://*.shvod.cn/*
@@ -5946,6 +5962,7 @@
 *://*.supremeppe.buzz/*
 *://*.surf4gifts.buzz/*
 *://*.surfercloud.com/blog/*
+*://*.surfshark.com/blog/*
 *://*.surprise8.com/*
 *://*.survillance.buzz/*
 *://*.sushiyigou.com/*
@@ -6445,6 +6462,7 @@
 *://*.vhted6p.cn/*
 *://*.vi-fr.buzz/*
 *://*.viaunomexico.buzz/*
+*://*.vibewire.com.au/*
 *://*.vicorner.com/*
 *://*.viddie.buzz/*
 *://*.videogameplaza.buzz/*
@@ -6557,6 +6575,8 @@
 *://*.washingtonmonarch.buzz/*
 *://*.wasou.cc/*
 *://*.waunwmcn.cn/*
+*://*.wavebrowser.co/*
+*://*.wavebrowser.com/*
 *://*.waynepmj.com/*
 *://*.waynon.com/*
 *://*.wayviews.com/*
