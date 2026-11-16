@@ -4664,6 +4664,7 @@
 *://*.nadenegrey.buzz/*
 *://*.naijasme.buzz/*
 *://*.nailaila.cn/*
+*://*.nailicy.com/*
 *://*.nam.qiruigou.com/*
 *://*.namasteconnecticut.buzz/*
 *://*.nameonly.cn/*
@@ -5623,6 +5624,7 @@
 *://*.scholarad.com/*
 *://*.schox-iplaw.buzz/*
 *://*.schrannenhallemuenchen.buzz/*
+*://*.sciencetimes.com/*
 *://*.scjddk.com/*
 *://*.scjiatai.com/*
 *://*.scjtsf.com/*
@@ -6124,6 +6126,7 @@
 *://*.techlivo.com/*
 *://*.technogenz.com/*
 *://*.techpluto.com/*
+*://*.techtimes.com/*
 *://*.techwithtech.com/*
 *://*.tee-verkauf.buzz/*
 *://*.teenagebabes.buzz/*
